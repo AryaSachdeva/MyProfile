@@ -21,7 +21,7 @@ section, summary, time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+	font-size: 50%;
 	font: inherit;
 	vertical-align: baseline;}
 
@@ -101,7 +101,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 15pt;
+		font-size: 7pt;
 		font-weight: 300 !important;
 		letter-spacing: -0.025em;
 		line-height: 1.75em;
@@ -554,14 +554,14 @@ input, select, textarea {
 	}
 
 		#header h1 {
-			font-size: 4.35em;
+			font-size: 3em;
 			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 0.8em;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
 		}
@@ -677,7 +677,7 @@ input, select, textarea {
 					border-radius: 100%;
 					border: solid 1px #fff;
 					display: block;
-					font-size: 1.75em;
+					font-size: 1.0em;
 					height: 2.5em;
 					line-height: 2.5em;
 					position: relative;
@@ -687,7 +687,7 @@ input, select, textarea {
 				}
 
 				#header nav a:hover {
-					font-size: 1.1em;
+					font-size: 1.0em;
 				}
 
 					#header nav a:hover:before {
@@ -696,7 +696,7 @@ input, select, textarea {
 					}
 
 				#header nav a:active {
-					font-size: 0.95em;
+					font-size: 0.75em;
 					background: none;
 				}
 
@@ -733,7 +733,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, select, textarea {
-				font-size: 13pt;
+				font-size: 9pt;
 			}
 
 		/* BG */
@@ -901,7 +901,7 @@ input, select, textarea {
 			}
 
 			body, input, select, textarea {
-				font-size: 11pt;
+				font-size: 9pt;
 			}
 
 		/* BG */
@@ -979,11 +979,11 @@ input, select, textarea {
 	/* Header */
 
 		#header h1 {
-			font-size: 2.5em;
+			font-size: 1.8em;
 		}
 
 		#header p {
-			font-size: 1em;
+			font-size: 0.8em;
 		}
 
 		#header nav {
@@ -991,11 +991,11 @@ input, select, textarea {
 		}
 
 			#header nav a:hover {
-				font-size: 1em;
+				font-size: 0.8em;
 			}
 
 			#header nav a:active {
-				font-size: 1em;
+				font-size: 0.8em;
 			} }
 
 /* Mobile (Portrait) */
